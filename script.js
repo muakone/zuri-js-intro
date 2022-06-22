@@ -5,14 +5,10 @@ var country = 'Nigeria'
 
 fullname = firstName + ' ' + lastName
 
-document.write("Name:" + ' ' + fullname + '<br/>')
-document.write("Height:" + ' ' + height + '<br/>')
-document.write("Country:" + ' ' + country + '<br/>')
+alert("Name:" + ' ' + fullname)
+alert("Height:" + ' ' + height)
+alert("Country:" + ' ' + country)
 
 console.log("Name:" + ' ' + fullname)
 console.log("Height:" + ' ' + height)
 console.log("Country:" + ' ' + country)
-
-alert("Name:" + ' ' + fullname)
-alert("Height:" + ' ' + height)
-alert("Country:" + ' ' + country)
