@@ -1,4 +1,4 @@
 # Zuri-intro-js
 
 ### Links
-- Live Site URL: [https://muakone.github.io/zuri-intro-js/](https://muakone.github.io/zuri-intro-js/)
+- Live Site URL: [https://muakone.github.io/zuri-js-intro/](https://muakone.github.io/zuri-js-intro/)
